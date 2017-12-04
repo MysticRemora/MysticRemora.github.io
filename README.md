@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![Image](http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159831&type=card)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
